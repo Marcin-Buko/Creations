@@ -4,4 +4,4 @@
 
 
 <h3 align="center">Here you can find my Curriculum Vitae.</h3>
-<h3 align="center">If you would like to print it choose proper printer version.</h3>
+<h3 align="center">If you would like to print it choose version designed for printer use.</h3>
