@@ -1,30 +1,10 @@
 
 
-<img src="./HM/HM_logo.svg">
+<p align="center"><img src="./HM_logo.svg"></p>
 
 
 <h3 align="center">Current status: In progress</h3>
 
-### Check out my latest work
-<hr>
 
-> #001
-<p align="center">  
-<img width="70%" src="https://lh3.googleusercontent.com/Y4L7gARHvXGWxxfUmY8XETSl8OTlI4TKYrQL4kqksdZcaFIe0yISn1GMlpr5gD4f74DmYRb8-Z4c8o0yIRomwpzKQQTPtb9Whr9vgZxUjSC4t6cclrq1n3AvAwVrPEV9OJK2AblZYbSWTqM_-rzez_b4LBnPMNG-mfjk9m67_cUlObEQx5CHKAOD6evTFG5tOgpJEWdk9EklmuV3fWpfoS5TQjuEy352UCo93fxmLgvyi10PYOuH1wlNfb_JUa8x4mx3Vy6pjwsUncGwgVE4q6ITzmgkwF-lr-Fo-jAOenhZILZvMlBY1pdYAGlGeAaQQyUANqG3kz5E6H6U_hCgbpkmcrxuEG-3b1p1PMC5dngKzKFFHTtafz2TZJ5o9zQKp7pB7uW8VcEv1sVCN4j3uslNHXlTKSmIsA528_QDsGIWzEDcR9LoNhtt90fPiB6p0fAVh8W6KQHvSciZyMLksnMZ_3GnGXy4D4YUC9vtn_3hOOgFOKXZdVjMu3E7o5iv9NncYslzQmN-mz-VlcrF8WpHmxR239wlAFQPP71u5FcdbV0H6Hjm9mxmAYXVfXWOulHAvkR_138VLH63As74IeakSk1iK_0mV2mj1WJCTZxiJuY2bHDzXlzFl3_RPNcAU700JADdjgnGCjJSdqVsuCatSi_spLV0IjSg4UiYqEfrBVqhwSm_vhMdkHGY=w718-h404-no?authuser=6">
-</p>
-<hr>
-
-> #002
-
-<p align="center">  
-<img width="70%" src="https://lh3.googleusercontent.com/G15bjYTFjjfPMaGF4yW7KfpQ7B4gKVs006NRdbngjn75Ts8oTKBjLFp1RJPH8-RYhQ57545ZLIV_wKHXXEV3VDIERldrG9qEwhQyO1yJIF_cpLvK0Lhj_-ck3z24vtdXlyGEEQhBp7zlUfjZgUBI1EbBHDGtV0X7Od0cg0KPHj9wrtcKZpDS8oFEJFCjkjt5z_r-A9V2rs919ZtQ4QpmZKvVNlZ6_lBt-m-1JXjnF0nfuBLL-gap2W5Lv_2nAFW1_WPQXJ46mB8um1b8h5V4UilATJ1ISEmPILMADy1pvt4lDg3k0oTe4lsjMHCf6G6BiEvQhpfzUQtUUnzqfAW-tg3vgG5NqnLpDaGMyUeKR9tQcLqz0BB1etjB5OPtXpY6sQA0W-8aNMcaSrtc9CkVomvgC-Z37DpcBrBbDIWWtaXKdHbS7qIpep92idkZbwyPE55-XhiKtD0QZ0SIcv_PEbQwRABS2z1N1zELh5VPK46yQtDx03aBkRipCk638jWpcd74uqZUlxdeTewByqbAPdUtoJV4lLMGcrApmFdLrOTsB4_u3RcH5ra_c8u3BqzTZ0CeiMG0hfV9SS7KEb9r0ig4SLSahpeuGyoIj2UfBxP7LhFusqCyk0w9iWiV2kwleSTdi2CxcLduGmYPDB28e9fLzuqvpNLgqjYKy_YmrKCEe-oC4NxqjBkxxAQ1=w532-h299-no?authuser=6">
-</p>
-<hr>
-
-> #003
-
-<p align="center">  
-<img width="70%" src="https://lh3.googleusercontent.com/-FOv_Kh7RvRT-5njvLedtjwlinDg-pfgDmjJwNTHhLboY-VUP7f3YIIy5beHiDEOUiAINknoTFcURFA0y2eWgtIN_ACVndIG2_bfRy55dEjy1JJXwfmzBP96F3x7ULyqQNdvHPNMdJ_y67efRoE-Q5lgM70oy_g3l8yf6vXl-JN7fcmGU0HYHKUG36ZIUzp5E9wmBMv6uGKjRln88gMID0WbKErwaeZ5hzqf0Sp70QnM0yQR_zbQXCwxGBkii0CaSzkI1M_nskXQjxJnANZnbjRstEoUQlz2qgVnuBYkL-UqaT2onZiVj4WtIjNlGV4ZNy33ygVNnfOnX2p1MhAA07Qj_5onFGcgCgZ-fzO3tfXXECdUiNXjT6LLysUx5Vu6oGS0tq9tqAAJwkbzCtKejG4Uv7AW6xdpbn6JU7k0T0LFyXHs6VSk6-35y0q0jPekxr2BGgZtiijBPRZjZV0tUqIKDJAcxTVUYRprkYQC_bwj-A97hh07H0soXBTfjNb2b8oEczKkNz-iF3KzP_9_Jfxk93xEFu40spD2YOq4O2LYhJTqoMqZhGfYNoVnqtnECCIOIDwheBRRWx3I-snLgfLaHjBBnuz2MkOtsaAXMRX6MGgqIn0_JQT0KUvryIOBxYmw_E3vit5AL4gCNo6-kPC6PFq1xFIs-OsG1NktyMlMmqSaTlfbAhKF8hSQ=w1666-h937-no?authuser=6">
-</p>
 
 <h3 align="center">Stay tuned for more...</h3>
