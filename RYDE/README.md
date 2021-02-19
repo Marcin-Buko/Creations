@@ -3,7 +3,7 @@
 <p align="center">  <img src="https://lh3.googleusercontent.com/NXZneSksRCb7Uba6Y7XrGp5V0iWb0qL6B7wGafF07BO5T6eEORoZ6vKyuOMNirs6mE4yngPYKO6CDSoGdDSYXv4DXZcg_6I-HfH2WNJVe7NMMj6Bs5e-aaRJxo83SxKJSAX8D3EYubGfsYyse2MvJkz9q5JZSbbMv4KZJw3JYLlPLrUl9c0bPdtyjbHD1cOQcS4os52TP1fLRznUCKGKo9Zu2BGLnDAEvVrm06YZH9k4YQea8qHD0m91No0XxKkTcUyOFECCLAkc4mHdy4hYitCcL2tSYh24rzCQd2_gwzrA-WMBeDdLp4y-foB9tmCV-GDjptMGIqHAd7xZ4SoNcpwrjURpBvcxPSSH1wgpkta_6Sv-yt0ajiD0rClw4wH9MUkDNRjYO7ZLQPp4eromu41GM-bMTCMhm9zyskMiwMZ3ewaTWnCAgY5oTBz3UMsPbi_IPX1TJhx8uabdkIoga0TxMs8tQPOqiaESfH_q0n3lakcmG2W8RLjUKzBcVyjqm63qNckRLduCU0cnqyEOZVpmGiVn6HgT6N63LOF1sXtemqqcCxqwigUpVrUGhlm1zMbHiDRSJ3LqeQI1Ok2xqgzBaeXuF7jTNWbv6c9wMJ4aWzO7nrR7EwLqKXGDoB3LQXx-o6eKfeJSDq1awVWjiXa3nPPIlcLFn1hDx2SgHKKSWI36Hm7-fz7JrrMP=s500-no?authuser=6">  </p>
 
 
-<h3 align="center" style"color: red">Current status: In progress</h3>
+<h3 align="center">Current status: In progress</h3>
 
 ### Check out my latest work
 <hr>
