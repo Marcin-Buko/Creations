@@ -1,6 +1,6 @@
 
 
-<img src="../MBD/Bg_alpha.svg">
+<img src="./Design Resources/Personal/Bg_alpha.svg">
 
 
 <h3 align="center">Here you can find my Curriculum Vitae.</h3>
