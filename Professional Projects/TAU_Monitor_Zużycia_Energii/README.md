@@ -1,6 +1,6 @@
 
 
-<p align="center"><img width="30%" src="./logo.png"></p>
+<p align="center"><img width="70%" src="./logo.png"></p>
 
 <br>
 
