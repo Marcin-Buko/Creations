@@ -1,6 +1,6 @@
 
 
-<p align="center"><img width="30%" src="./HM_logo.svg"></p>
+<p align="center"><img width="30%" src="./logo.png"></p>
 
 <br>
 
