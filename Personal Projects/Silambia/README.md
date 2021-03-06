@@ -1,11 +1,11 @@
 
 <p align="center">
-<img width="50%" src="./Logo/Logo_RYDE.svg">
+<img width="30%" src="./Logo/Logo_silambia.svg">
 </p>
 
 <h3 align="center">Current status: In progress</h3>
 
-### Check out my latest work
+### Check out our latest work
 <hr>
 
 > #001
